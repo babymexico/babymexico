@@ -10,8 +10,8 @@
 [<img align="left" alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />][pandas]
 [<img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />][numpy]
 [<img align="left" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
-[<img align="left" alt="Scikit-Learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikit-learn-original.svg" />][scikitlearn]
-[<img align="left" alt="XGBoost" width="50px" src="https://raw.githubusercontent.com/dmlc/web-data/master/xgboost/logo/xgboost-logo.png" />][xgboost]
+[<img align="left" alt="Scikit-Learn" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1747125230/github_readme/co4vgcxm1wiwlt5cxmg3.svg" />][scikitlearn]
+[<img align="left" alt="XGBoost" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1747125230/github_readme/yg3otvsxtlhonczuudo0.svg" />][xgboost]
 [<img align="left" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
 [<img align="left" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />][pytorch]
 [<img align="left" alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][sql]
@@ -21,9 +21,9 @@
 
 
 ### Visualization & Analytics:  
-[<img align="left" alt="Power BI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" />][powerbi]
-[<img align="left" alt="Tableau" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />][tableau]
-[<img align="left" alt="Excel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />][excel]
+[<img align="left" alt="Power BI" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1747125230/github_readme/ggdfsikauxe7rd6oiuvo.svg" />][powerbi]
+[<img align="left" alt="Tableau" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1747125230/github_readme/bfoyiu9b74k70vf6vola.svg" />][tableau]
+[<img align="left" alt="Excel" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1747125230/github_readme/oqn7nrqve7zlnlvtfkwp.svg" />][excel]
 
 <br />
 <br />
