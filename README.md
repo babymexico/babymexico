@@ -171,3 +171,4 @@
 [powerbi]: https://powerbi.microsoft.com/
 [tableau]: https://www.tableau.com/
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel
+[vscode]: https://code.visualstudio.com/
