@@ -6,11 +6,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babymexico&show_icons=true&theme=ayu-mirage)
 ### Core Stack:
-[<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />][html5]
-[<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css3]
-[<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactdocumentation]
-[<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
-
+[<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />][pandas]
+[<img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />][numpy]
+[<img align="left" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
+[<img align="left" alt="Scikit-Learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikit-learn-original.svg" />][scikitlearn]
+[<img align="left" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
+[<img align="left" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />][pytorch]
+[<img align="left" alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][sql]
 <br />
 <br />
 
@@ -130,3 +133,11 @@
 [vim]: https://neovim.io/
 [ionic]: https://ionicframework.com/
 [postgresql]: https://www.postgresql.org/
+[python]: https://www.python.org/
+[pandas]: https://pandas.pydata.org/
+[numpy]: https://numpy.org/
+[jupyter]: https://jupyter.org/
+[scikitlearn]: https://scikit-learn.org/
+[tensorflow]: https://www.tensorflow.org/
+[pytorch]: https://pytorch.org/
+[sql]: https://www.postgresql.org/docs/
