@@ -11,9 +11,13 @@
 [<img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />][numpy]
 [<img align="left" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
 [<img align="left" alt="Scikit-Learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikit-learn-original.svg" />][scikitlearn]
+[<img align="left" alt="XGBoost" width="50px" src="https://raw.githubusercontent.com/dmlc/web-data/master/xgboost/logo/xgboost-logo.png" />][xgboost]
 [<img align="left" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
 [<img align="left" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />][pytorch]
 [<img align="left" alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][sql]
+[<img align="left" alt="Power BI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" />][powerbi]
+[<img align="left" alt="Tableau" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />][tableau]
+[<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" />][excel]
 <br />
 <br />
 
@@ -21,21 +25,21 @@
 [<img align="left" alt="GitLab" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][gitlab]
 [<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
 [<img align="left" alt="Trello" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />][trello]
+[<img align="left" alt="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][jira]
 [<img align="left" alt="Slack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />][slack]
 
 
 <br />
 <br />
 
-### Others:
-[<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][visualstudio]
-[<img align="left" alt="Visual Studio" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />][vs]
-[<img align="left" alt="Webstorm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />][webstorm]
-[<img align="left" alt="Intellij Idea" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1704201885/github_readme/inrjvavfrn1bgykq4uha.png" />][intellij]
-[<img align="left" alt="Figma" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />][figma]
-[<img align="left" alt="Git Bash" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1704201884/github_readme/ur7ozbty9qvxxbwsstry.svg" />][bash]
-
+[<img align="left" alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
+[<img align="left" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
+[<img align="left" alt="PyCharm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />][pycharm]
+[<img align="left" alt="RStudio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />][rstudio]
+[<img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
+[<img align="left" alt="Terminal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][bash]
+[<img align="left" alt="LaTeX" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />][latex]
+[<img align="left" alt="Markdown" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />][markdown]
 
 <br />
 <br />
@@ -52,10 +56,12 @@
 
 ###  In proccess:
 
-[<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />][mongoDB]
-[<img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />][mysql]
-[<img align="left" alt="NumPy" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />][numpy]
-[<img align="left" alt="Spring" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1704202759/github_readme/a0wt61eu3f1ondkds0ij.svg" />][spring]
+[<img align="left" alt="Apache Spark" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />][spark]
+[<img align="left" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
+[<img align="left" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />][pytorch]
+[<img align="left" alt="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
+[<img align="left" alt="FastAPI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />][fastapi]
+[<img align="left" alt="Keras" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />][keras]
 
 <br />
 <br />
@@ -141,3 +147,19 @@
 [tensorflow]: https://www.tensorflow.org/
 [pytorch]: https://pytorch.org/
 [sql]: https://www.postgresql.org/docs/
+[pycharm]: https://www.jetbrains.com/pycharm/
+[docker]: https://www.docker.com/
+[bash]: https://www.gnu.org/software/bash/
+[latex]: https://www.latex-project.org/
+[markdown]: https://www.markdownguide.org/
+[spark]: https://spark.apache.org/
+[tensorflow]: https://www.tensorflow.org/
+[pytorch]: https://pytorch.org/
+[kubernetes]: https://kubernetes.io/
+[fastapi]: https://fastapi.tiangolo.com/
+[keras]: https://keras.io/
+[rstudio]: https://www.rstudio.com/
+[xgboost]: https://xgboost.ai/
+[powerbi]: https://powerbi.microsoft.com/
+[tableau]: https://www.tableau.com/
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel
