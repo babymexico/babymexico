@@ -15,9 +15,16 @@
 [<img align="left" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
 [<img align="left" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />][pytorch]
 [<img align="left" alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][sql]
+
+<br />
+<br />
+
+
+### Visualization & Analytics:  
 [<img align="left" alt="Power BI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" />][powerbi]
 [<img align="left" alt="Tableau" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />][tableau]
-[<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" />][excel]
+[<img align="left" alt="Excel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />][excel]
+
 <br />
 <br />
 
@@ -32,6 +39,7 @@
 <br />
 <br />
 
+### Tools & Software
 [<img align="left" alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
 [<img align="left" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />][jupyter]
 [<img align="left" alt="PyCharm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />][pycharm]
